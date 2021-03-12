@@ -1,0 +1,34 @@
+{
+"users": [
+  {
+    "id": 1,
+    "user": kuanysh",
+    "email": "kuanysh@out.com",
+    "password": "kuka1234"
+  },
+  {
+    "id": 2,
+    "user": "alpa707",
+    "email": "alpa588@mail.ru",
+    "password": "jameS29"
+  },
+  {
+    "id": 3,
+    "user": "mahambet",
+    "email": "otemysuly@gmail.com",
+    "password": "kazakhbatyry232"
+  },
+  {
+    "id": 4,
+    "user": "napal",
+    "email": "napal@mail.ru",
+    "password": "butterfly203"
+  },
+  {
+    "id": 5,
+    "user": "batyrkhan",
+    "email": "batyr@gmail.com",
+    "password": "Batur3004"
+  }
+]
+}
